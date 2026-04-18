@@ -1,3 +1,4 @@
+#RetroDevStudio.MetaData.BASIC:2049,BASIC V2,uppercase,10,10
 5 REM ***
 10 REM *** MINECAVE
 15 REM *** BY E.WENNERS, 2017
