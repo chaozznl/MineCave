@@ -1,4 +1,5 @@
 # MineCave
+> by Elmar Wenners / chaozz.nl / github.com/chaozznl
 ![gameplay screenshot](https://chaozz.nl/wp-content/uploads/2018/02/minecave-gameplay-860x484.png)
 
 MineCave is a game I wrote in BASIC on a real Commodore 64. The game is the result of a challenge I did for the Youtube channel RetroGameCouch.
