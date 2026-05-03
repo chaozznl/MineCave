@@ -45,4 +45,4 @@ You lose health when:
 
 ## Cracked version
 As is traditional with Commodore 64 games, MineCave was cracked and trained.
-You can download that version ![here](https://csdb.dk/release/?id=161448).
+You can download that version [here](https://csdb.dk/release/?id=161448).
