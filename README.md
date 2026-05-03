@@ -1,5 +1,5 @@
 # MineCave
-by Elmar Wenners / chaozz.nl / github.com/chaozznl
+> by Elmar Wenners / chaozz.nl / github.com/chaozznl
 
 ![gameplay screenshot](https://chaozz.nl/wp-content/uploads/2018/02/minecave-gameplay-860x484.png)
 
@@ -42,3 +42,7 @@ You lose health when:
 - Full source code
 - Compiled versions
 - Materials related to the RetroGameCouch challenge
+
+## Cracked version
+As is traditional with Commodore 64 games, MineCave was cracked and trained.
+You can download that version ![here](https://csdb.dk/release/?id=161448).
