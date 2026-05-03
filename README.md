@@ -1,14 +1,44 @@
 # MineCave
-> by Elmar Wenners / chaozz.nl / github.com/chaozznl
+by Elmar Wenners / chaozz.nl / github.com/chaozznl
 
 ![gameplay screenshot](https://chaozz.nl/wp-content/uploads/2018/02/minecave-gameplay-860x484.png)
 
-MineCave is a game I wrote in BASIC on a real Commodore 64. The game is the result of a challenge I did for the Youtube channel RetroGameCouch.
+MineCave is a game written in Commodore 64 BASIC on a real C64.
+The game was created as part of a challenge for the YouTube channel RetroGameCouch.
 
-In the game, which is entirely in text-mode, you mine a mining claim for ores. These ores need to be sold at the shop to earn cash. Cash is used to upgrade your tools to be able to access lower parts of the claim.
+[![Youtube Video](https://github.com/user-attachments/assets/e623856b-ff95-4994-afe1-c48ae8424304)](https://www.youtube.com/watch?v=aKJ5qsL_Rm0)
 
-You do however also have to keep track of your health and oxygen levels.
+## Gameplay
+MineCave runs entirely in text mode and takes place in a single vertical mine shaft.
 
-On the bottom of the mine lies a big red diamond. This is the stone you are after. Reach it and you win the game.
+In the game:
+- You dig downward and collect various types of ore.
+- You sell the ore in the shop to earn money.
+- You use that money to upgrade your tools, allowing you to reach deeper levels.
+- You must keep an eye on your health and oxygen; without them, you won't survive.
 
-The game is compiled using [MOSpeed](https://www.c64-wiki.com/wiki/MOSpeed).
+At the bottom of the mine lies a large red diamond.
+Reach it, and you win the game.
+
+## Joystick Controls
+- Move left, right, up or down to walk or dig.
+  If a block is in your way and your pickaxe is strong enough, the block will be removed automatically.
+- Press the fire button to place a ladder.
+
+## Survival
+Stay underground too long and you will suffocate, so you must occasionally return to the surface for fresh air.
+Keep an eye on the oxygen meter.
+
+You lose health when:
+- You stay underground without fresh air for too long.
+- You fall from too great a height.
+
+## Technical Details
+- Written in pure Commodore 64 BASIC
+- Developed on real hardware
+- Compiled using MOSpeed for improved performance
+
+## Repository Contents
+- Full source code
+- Compiled versions
+- Materials related to the RetroGameCouch challenge
