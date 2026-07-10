@@ -1,10 +1,11 @@
-# MineCave
+# MineCave v2.0 (2026 update)
 > by Elmar Wenners / chaozz.nl / github.com/chaozznl
 
 ![gameplay screenshot](https://chaozz.nl/wp-content/uploads/2018/02/minecave-gameplay-860x484.png)
 
-MineCave is a game written in Commodore 64 BASIC on a real C64.
+MineCave was a game written in Commodore 64 BASIC on a real C64.
 The game was created as part of a challenge for the YouTube channel RetroGameCouch.
+It has since been updated and improved in C64 Studio and compiled with BOSS Compiler.
 
 [![Youtube Video](https://github.com/user-attachments/assets/e623856b-ff95-4994-afe1-c48ae8424304)](https://www.youtube.com/watch?v=aKJ5qsL_Rm0)
 
