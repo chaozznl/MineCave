@@ -3,11 +3,7 @@
 
 ![gameplay screenshot](https://chaozz.nl/wp-content/uploads/2018/02/minecave-gameplay-860x484.png)
 
-MineCave was a game written in Commodore 64 BASIC on a real C64.
-The game was created as part of a challenge for the YouTube channel RetroGameCouch.
-It has since been updated and improved in C64 Studio and compiled with BOSS Compiler.
-
-[![Youtube Video](https://github.com/user-attachments/assets/e623856b-ff95-4994-afe1-c48ae8424304)](https://www.youtube.com/watch?v=aKJ5qsL_Rm0)
+In Minecave you are trying to find the most valuable ore; the red diamond. To reach it you need to mine other ores and sell them at the store to upgrade your tool. Each tool upgrade gives you access to a lower ground level.
 
 ## Gameplay
 MineCave runs entirely in text mode and takes place in a single vertical mine shaft.
@@ -47,3 +43,11 @@ You lose health when:
 ## Cracked version
 As is traditional with Commodore 64 games, MineCave was cracked and trained.
 You can download that version [here](https://csdb.dk/release/?id=161448).
+
+## Origin
+MineCave was a game written in Commodore 64 BASIC on a real C64.
+The game was created as part of a challenge for the YouTube channel RetroGameCouch.
+It has since been updated and improved in C64 Studio and compiled with BOSS Compiler.
+
+[![Youtube Video](https://github.com/user-attachments/assets/e623856b-ff95-4994-afe1-c48ae8424304)](https://www.youtube.com/watch?v=aKJ5qsL_Rm0)
+
